@@ -43,7 +43,7 @@ article {
 article img {
 	width: 250px;
 	height: 200px;
-	margin-left: 10px;
+	margin-left: 0px;
 }
 
 #main-bio {
@@ -238,7 +238,7 @@ article h3 {
 	background-color: #4aaaa5;
 	color: white;
 	text-align: center;
-	margin-left: 10px;
+	margin-left: 15px;
 }
 
 footer {
